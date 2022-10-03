@@ -4,9 +4,8 @@
 - [Summary](#summary)
 - [Problem Statement](#problem-statement)
 - [Benchmark Assessment](#benchmark-assessment)
-- [Scope 1 & Scope 2 emissions reduction](#Scope-1-&-Scope-2-emissions-reduction)
-- [Scope 3 Science based targets and initiatives](#Scope-3 science-based-targets-and-initiatives)
-
+- [Scope 1 & Scope 2 emissions reduction](#scope-1-&-Scope-2-emissions-reduction)
+- [Scope 3 Science based targets and initiatives](#scope-3-science-based-targets-and-initiatives)
 
 ## Summary
 - Fast Cars is performing worse than most of the companies in the automotive industry.
