@@ -39,7 +39,7 @@ This analysis suggests that Fast Cars is performing worse than most of the compa
 The following are interventions to address the emission sources.  
 
 **Emissions Source: Scope 2 Electricity for Fast Cars Manufacturing**
-*Initiative: Renewable Power in Production (40-55% abatement lever)*
+**Initiative: Renewable Power in Production (40-55% abatement lever)**
 
 Purchased electricity for manufacturing makes up most of Fast Cars’ scope 2 emissions. Fast Cars can transition its manufacturing facilities to renewable power to significantly reduce carbon emissions at all its sites. This approach can be coupled with investment in energy efficiency measures to reduce its overall energy demands. 
 
@@ -49,13 +49,13 @@ Fast Cars could also influence its suppliers to transition to renewable energy; 
 - From 2022, Mercedes-Benz committed to becoming CO2 neutral in its operations in Germany and Europe with renewable energy supply. This is achieved through the installation of a photovoltaic system.
 - The company is also requiring its suppliers to adopt the standards for decarbonization.
 
-*Initiative: Renewable Power and New Processes in Battery Production (40-55% abatement lever)*
+**Initiative: Renewable Power and New Processes in Battery Production (40-55% abatement lever)**
 
 It is expected that Fast Cars planned to have electric vehicle lines coming into the market, in line with the climate trends and regulations. The energy intensity of battery production will significantly increase its carbon emissions. For example, producing a BEV can generate up to 60% more CO2 emissions than producing a comparable ICE. 
 Fast Cars should consider switching to renewable energy in its battery production sites or prioritizing factories that are supplied with renewable energy in its battery supply chain to pave its commitment to becoming Co2-neutral. 
 
 **Emissions Source: Scope 1 Fast Cars Manufacturing Onsite Gas Boilers**
-*Initiative: Renewable Heat (40% abatement lever)*
+**Initiative: Renewable Heat (40% abatement lever)**
 
 Fast Cars currently use onsite gas boilers for heat production in their manufacturing processes. This makes up the greatest proportion of the company’s scope 1 emissions. There are several options to reduce or eliminate these emissions that we could recommend to Fast Cars. These include using high-efficiency burners that recover and use waste heat, as well as using alternative sources such as biogas, biomass, or hydrogen. 
 
