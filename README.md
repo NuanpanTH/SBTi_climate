@@ -1,4 +1,5 @@
 # Science Based Target initiative (SBTi) emissions reduction
+This project is part of the BCG Climate & Sustainability Consulting Virtual Experience Program.
 
 ## Table of contents
 - [Summary](#summary)
@@ -53,6 +54,7 @@ Fast Cars could also influence its suppliers to transition to renewable energy; 
 **Initiative: Renewable Power and New Processes in Battery Production (40-55% abatement lever)**
 
 It is expected that Fast Cars planned to have electric vehicle lines coming into the market, in line with the climate trends and regulations. The energy intensity of battery production will significantly increase its carbon emissions. For example, producing a BEV can generate up to 60% more CO2 emissions than producing a comparable ICE. 
+
 Fast Cars should consider switching to renewable energy in its battery production sites or prioritizing factories that are supplied with renewable energy in its battery supply chain to pave its commitment to becoming Co2-neutral. 
 
 **Emissions Source: Scope 1 Fast Cars Manufacturing Onsite Gas Boilers** 
@@ -75,6 +77,6 @@ Therefore, to be in line with the industry, it is recommended that Fast Cars det
 
 ![Table4](./img/table4.png)
 
-Table 5 details iniatives Fast Cars should focus to improve its emissions.
+**Table 5** details iniatives Fast Cars should focus to improve its emissions.
 
 ![Table5](./img/table5.png)
